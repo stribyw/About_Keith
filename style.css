@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none; /*remove underline*/
+}
+
+header {
+	background-color: black;
+	padding: 5px 20px 0 5px;
+}
+
+header h1 {
+	color: inherit;
+	margin: 0;
+}
+
+header h1 a:hover {
+	text-decoration: none;
+}
+
+.banner-list {
+	font-family: 'Noto Sans', sans-serif;
+	list-style-type: none; /*remove bullet list*/
+	color: white;
+	padding: 0;
+	margin: 0;
+}
+
+.banner-item h2 {
+	margin: 0;
+}
+
+nav {
+	background-color: #dc4405;
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+	margin: 0 -20px;  /* negative margin here makes up for header padding */
+	font-size: ;
+	font-weight: ;
+}
+
+.navbar-list {
+	list-style-type: none; /*remove bullet list*/
+	padding: 0;
+	margin: 0 20px;
+}
+
+.navbar-item {
+	display: inline; /*make list along same row*/
+}
+
+.navbar-item a {
+	color: white;
+}
+
+main {
+	font-family: 'Noto Serif', serif;
+}
