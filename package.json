@@ -1,0 +1,22 @@
+{
+  "name": "about_keith",
+  "version": "1.0.0",
+  "description": "Keith's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stribyw/About_Keith.git"
+  },
+  "author": "Keith Striby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stribyw/About_Keith/issues"
+  },
+  "homepage": "https://github.com/stribyw/About_Keith#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
